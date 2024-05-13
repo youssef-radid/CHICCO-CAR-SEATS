@@ -1,0 +1,24 @@
+.news-primary {
+  color: #E6003D;
+}
+.bg-news-primary {
+  background-color: #E6003D;
+}
+a {
+  color: #E6003D;
+}
+.btn-news-secondary {
+  background-color: #D20F26;
+  color: #fff;
+}
+
+
+
+
+
+
+@media (max-width: 480px) {
+  .lead {
+    font-size: 14px;
+  }
+}
